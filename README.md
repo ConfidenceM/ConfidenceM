@@ -4,4 +4,4 @@ Im Confidence from South Africa, and Im currently learning software devlopment. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfidenceM)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ConfidenceM&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfidenceM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
